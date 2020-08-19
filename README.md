@@ -1,8 +1,8 @@
 ## Hey there, My name is Szymon Paluch 👋
 
-- 🔭 I’m working on a [weather app][weather]
+- 👨‍💻 I’m working on a [weather app][weather]
 - 👨‍🎓 I’m currently learning ReactJS 
-- 🥅 2020 Goals: Start contributing to Open source and working as a freelancer
+-  🙋‍♂️  2020 Goals: Start contributing to Open source and working as a freelancer
 
 ### My tools and languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
