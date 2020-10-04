@@ -1,6 +1,6 @@
 ## Hey there, My name is Szymon Paluch 👋
 
-- 👨🏻‍💻 I’m working on a [weather app][weather]
+- 👨🏻‍💻 I’m finishing up on a [weather app][weather]
 - 👨🏻‍🎓 I’m currently learning ReactJS 
 - 🧑🏻‍🏫 I'm still learning so whenever i'm not pushing to github i'm on [FreeCodeCamp][fcc]
 - 🙋🏻‍♂️ Looking forward to contributing to open source
