@@ -1,8 +1,9 @@
 ## Hey there, My name is Szymon Paluch 👋
 
-- 👨‍💻 I’m working on a [weather app][weather]
-- 👨‍🎓 I’m currently learning ReactJS 
--  🙋‍♂️  2020 Goals: Start contributing to Open source and working as a freelancer
+- 👨🏻‍💻 I’m working on a [weather app][weather]
+- 👨🏻‍🎓 I’m currently learning ReactJS 
+- 🧑🏻‍🏫 I'm still learning so whenever i'm not pushing to github i'm on [FreeCodeCamp][fcc]
+- 🙋🏻‍♂️ Looking forward to contributing to open source
 
 ### My tools and languages:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -16,3 +17,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [weather]: https://github.com/rekeye/better-weather
+[fcc]: https://www.freecodecamp.org/rekeye
