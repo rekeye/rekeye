@@ -4,6 +4,10 @@ I'm a student of a technical secondary school in Poland. Currently I'm in my thi
 
 Feel free to check out my current work in the repositories below.
 
+## My socials:
+
+[<img align="left" alt="FreeCodeCamp" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_200_200/0/1589990867649?e=2159024400&v=beta&t=V8puy6s_dYMSAsGHDbhTWfKdLkqoQD5NBhIv3kkmJMQ" />](https://www.freecodecamp.org/rekeye)
+
 ## My stack:
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org)
