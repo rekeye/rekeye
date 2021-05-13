@@ -6,7 +6,7 @@ Feel free to check out my current work in the repositories below.
 
 ## My socials:
 
-[<img align="left" alt="FreeCodeCamp" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_200_200/0/1589990867649?e=2159024400&v=beta&t=V8puy6s_dYMSAsGHDbhTWfKdLkqoQD5NBhIv3kkmJMQ" />](https://www.freecodecamp.org/rekeye)
+[<img alt="FreeCodeCamp" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_200_200/0/1589990867649?e=2159024400&v=beta&t=V8puy6s_dYMSAsGHDbhTWfKdLkqoQD5NBhIv3kkmJMQ" />](https://www.freecodecamp.org/rekeye)
 
 ## My stack:
 
