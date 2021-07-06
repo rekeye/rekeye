@@ -6,7 +6,7 @@ Feel free to check out my current work in the repositories below.
 
 ## My socials:
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.galaxymarketing.global%2Fpl%2Flinkedin%2Fkupuj-obserwujacych-na-linkedin%2F&psig=AOvVaw0JHiwRc8dsbiEdSPTLQ2Kl&ust=1625658721076000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOC6guGwzvECFQAAAAAdAAAAABAD" />](https://www.linkedin.com/in/szymon-paluch-89b329212)
+[<img align="left" alt="LinkedIn" width="26px" src="https://lh3.googleusercontent.com/proxy/D496ZOTxXb5Zh614Mu52MeaGhHBkcz5KZMvjYGgFYgYQ8-Pn2XaLdVQ5NzJUnOGIq2kIhu7ki0xjdHJbP6Zqc6QqiDP1IpYmY_8BC15KyNzvXLoNxrvM5r2S8A" />](https://www.linkedin.com/in/szymon-paluch-89b329212)
 [<img align="left" alt="FreeCodeCamp" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_200_200/0/1589990867649?e=2159024400&v=beta&t=V8puy6s_dYMSAsGHDbhTWfKdLkqoQD5NBhIv3kkmJMQ" />](https://www.freecodecamp.org/rekeye)
 
 <br/>
