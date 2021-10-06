@@ -22,10 +22,11 @@ Feel free to check out my current work in the repositories below.
     <img style="margin: 20px" alt="React" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     <img style="margin: 20px" alt="Gatsby" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
     <img style="margin: 20px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img style="margin: 20px"  alt="Sass" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> 
     <img style="margin: 20px" alt="GraphCMS" height="50" src="https://pbs.twimg.com/profile_images/1240607161639632896/65lOOz86.jpg" />
     <img style="margin: 20px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" /> 
     <img style="margin: 20px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <img style="margin: 20px"  alt="Webpack" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/> 
+    <img style="margin: 20px"  alt="Sass" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> 
     <img style="margin: 20px"  alt="Git" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
   </div>
   <div style="width: 50%;">
