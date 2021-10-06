@@ -7,7 +7,7 @@
 
 ## About me:
 
-I'm a student of a technical secondary school in Poland. Currently I'm in my third year of pursuing my technical degree in IT. In my free time I'm learning Front-End Development striving to grow my knowledge and create better things everyday.
+I'm a student of a vocational school in Poland. Currently I'm in my fourth and last year of pursuing my technical degree in IT. In my free time I'm learning Front-End Development striving to grow my knowledge and create better things everyday.
 
 Feel free to check out my current work in the repositories below.
 
