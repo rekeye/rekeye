@@ -1,4 +1,4 @@
-# Hey there, I'm Szymon 👋
+# Hey there, I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <div style="display: flex; justify-contents: center;">
   <img alt="followers" src="https://img.shields.io/github/followers/rekeye?style=for-the-badge" />
