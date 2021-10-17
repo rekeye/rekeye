@@ -1,7 +1,7 @@
 # Hey there, I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <div style="display: flex; justify-contents: center;">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=your-github-username" />
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=rekeye" />
   <img alt="followers" src="https://img.shields.io/github/followers/rekeye" />
   <img alt="freecodecamp points" src="https://img.shields.io/freecodecamp/points/rekeye" />
 </div>
