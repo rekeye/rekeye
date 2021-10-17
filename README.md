@@ -2,8 +2,8 @@
 
 <div style="display: flex; justify-contents: center;">
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=your-github-username" />
-  <img alt="followers" src="https://img.shields.io/github/followers/rekeye?style=for-the-badge" />
-  <img alt="freecodecamp points" src="https://img.shields.io/freecodecamp/points/rekeye?style=for-the-badge" />
+  <img alt="followers" src="https://img.shields.io/github/followers/rekeye" />
+  <img alt="freecodecamp points" src="https://img.shields.io/freecodecamp/points/rekeye" />
 </div>
 
 ## About me:
