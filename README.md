@@ -14,8 +14,8 @@ Feel free to check out my current work in the repositories below.
 
 <br />
 
-![Szymon Paluch's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekeye&show_icons=true&theme=github_dark)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rekeye&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rekeye/langs)](https://githubtrends.io/wrapped/rekeye)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rekeye/repos)](https://githubtrends.io/wrapped/rekeye)
 
 <div style="display: flex;">
   <div style="width: 50%;">  
