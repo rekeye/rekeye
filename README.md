@@ -8,9 +8,10 @@
 
 ## About me:
 
-I'm a student of a vocational school in Poland. Currently I'm in my fourth and last year of pursuing my technical degree in IT. In my free time I'm learning Front-End Development striving to grow my knowledge and create better things everyday.
 
-Feel free to check out my current work in the repositories below.
+I've been interested in programming for a very long time. Currently I'm in my final year of pursuing my technical degree in IT at a vocational high school. I'm  working on developing decentralized web3 applications with the team at M8B. 
+
+Obviously I can't share with you all of my code base but feel free to check out the public repos down below.
 
 ## My stack:
 
