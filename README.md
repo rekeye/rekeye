@@ -68,5 +68,4 @@ Obviously I can't share with you all of my code base but feel free to check out 
  
  ## My stats:
  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rekeye/langs)](https://githubtrends.io/wrapped/rekeye)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rekeye/repos)](https://githubtrends.io/wrapped/rekeye)
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rekeye/langs?time_range=three_months&use_percent=True&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
