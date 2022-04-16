@@ -37,13 +37,6 @@ Obviously I can't share with you all of my code base but feel free to check out 
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
 
-## Still learning: 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
 ## My socials: 
   
 <div align="center">
