@@ -13,9 +13,25 @@ I've been interested in programming for a very long time. Currently I'm in my fi
 
 Obviously I can't share with you all of my code base but feel free to check out the public repos down below.
 
+<div>
+  <a href="rekeye.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/szymon-paluch-89b329212/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/rekeye/" target="_blank">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+  </a>
+  <a href="https://www.freecodecamp.org/rekeye" target="_blank">
+      <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+ </div>
+ 
+
 ## My technologies:
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
@@ -32,27 +48,7 @@ Obviously I can't share with you all of my code base but feel free to check out 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
-
-## My socials: 
   
-<div align="center">
-  <a href="rekeye.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/szymon-paluch-89b329212/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/14133626/rekeye/" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://www.codewars.com/users/rekeye/" target="_blank">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-  </a>
-  <a href="https://www.freecodecamp.org/rekeye" target="_blank">
-      <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-  </a>
- </div>
- 
  ## My stats:
  
  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rekeye/langs?time_range=three_months&use_percent=True&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
