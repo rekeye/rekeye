@@ -31,7 +31,7 @@ Obviously I can't share with you all of my code base but feel free to check out 
 
 ## My technologies:
 
-![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,ts,jest,graphql,tailwind,sass,html,vite,webpack,git,linux,neovim)
+![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,ts,jest,graphql,tailwind,sass,html,vite,webpack,git,linux,neovim,vscode)
   
  ## My stats:
  
