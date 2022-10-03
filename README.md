@@ -9,7 +9,7 @@
 ## About me:
 
 
-I've been interested in programming for a very long time. I'm  working on developing decentralized web3 applications with the team at M8B. 
+I've been interested in programming for a very long time. I'm  working on developing decentralized web3 applications with the team at m8b. 
 
 Obviously I can't share with you all of my code base but feel free to check out the public repos down below.
 
